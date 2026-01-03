@@ -30,11 +30,6 @@
 **Currently Exploring:**  
 `Deep Learning` | `Machine Learning` | `Spring Boot`
 
-
-
-## 📊 GitHub Stats
-![Alisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisha090706&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect With Me
